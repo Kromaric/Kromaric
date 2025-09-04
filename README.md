@@ -1,7 +1,7 @@
 ## 👋 Salut, je suis Romaric !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&width=500&lines=Développeur+Full-Stack+%7C+Passionné+de+Tech+%7C+Futur+Data+Scientist" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&width=500&lines=Développeur+Full-Stack+" alt="Typing SVG"/>
 </div>
 
 ---
